@@ -1,0 +1,8 @@
+{
+  "name": "Kone",
+  "description": "Transparent Prxky",
+  "repository": "https://github.com/xjdrew/kone
+",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
